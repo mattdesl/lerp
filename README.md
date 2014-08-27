@@ -4,7 +4,7 @@
 
 [![frozen](http://badges.github.io/stability-badges/dist/frozen.svg)](http://github.com/badges/stability-badges)
 
-In the fashion of small modules and saving keystrokes; this is a bare-bones [linear interpolation](http://en.wikipedia.org/wiki/Linear_interpolation) function.
+In the fashion of small modules and saving keystrokes; this is a bare-bones [linear interpolation](http://en.wikipedia.org/wiki/Linear_interpolation) function. Same as `mix` in GLSL.
 
 ```js
 var lerp = require('lerp')
