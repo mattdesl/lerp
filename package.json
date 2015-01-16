@@ -1,12 +1,11 @@
 {
   "name": "lerp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "bare-bones linear interpolation function",
   "main": "index.js",
   "license": "MIT",
   "author": "Matt DesLauriers <dave.des@gmail.com>",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "tape": "~2.13.2"
   },
