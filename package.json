@@ -1,6 +1,6 @@
 {
   "name": "lerp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "bare-bones linear interpolation function",
   "main": "index.js",
   "license": "MIT",
