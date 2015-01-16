@@ -1,5 +1,3 @@
-[![browser support](https://ci.testling.com/mattdesl/lerp.png)](https://ci.testling.com/mattdesl/lerp)
-
 # lerp
 
 [![frozen](http://badges.github.io/stability-badges/dist/frozen.svg)](http://github.com/badges/stability-badges)
